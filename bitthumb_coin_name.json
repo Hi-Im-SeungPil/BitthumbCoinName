@@ -1,0 +1,1130 @@
+{
+  "FIT": {
+    "kr_name": "300피트 네트워크",
+    "eng_name": "300FIT NETWORK"
+  },
+  "1INCH": {
+    "kr_name": "1인치",
+    "eng_name": "1INCH"
+  },
+  "HOOK": {
+    "kr_name": "훅트 프로토콜",
+    "eng_name": "HOOKED PROTOCOL"
+  },
+  "WLD": {
+    "kr_name": "월드 코인",
+    "eng_name": "WORLD COIN"
+  },
+  "BTC": {
+    "kr_name": "비트코인",
+    "eng_name": "BITCOIN"
+  },
+  "USDT": {
+    "kr_name": "테더",
+    "eng_name": "TETHER"
+  },
+  "AGI": {
+    "kr_name": "델리시움",
+    "eng_name": "DELYSIUM"
+  },
+  "GLM": {
+    "kr_name": "골렘",
+    "eng_name": "GOLEM"
+  },
+  "ETH": {
+    "kr_name": "이더리움",
+    "eng_name": "ETHEREUM"
+  },
+  "PEPE": {
+    "kr_name": "페페",
+    "eng_name": "PEPE"
+  },
+  "SOL": {
+    "kr_name": "솔라나",
+    "eng_name": "SOLANA"
+  },
+  "FRONT": {
+    "kr_name": "프론티어",
+    "eng_name": "FRONTIER"
+  },
+  "XRP": {
+    "kr_name": "리플",
+    "eng_name": "RIPPLE"
+  },
+  "ARKM": {
+    "kr_name": "아캄",
+    "eng_name": "ARKHAM"
+  },
+  "LBL": {
+    "kr_name": "레이블",
+    "eng_name": "LABEL FOUNDATION"
+  },
+  "ONDO": {
+    "kr_name": "온도 파이낸스",
+    "eng_name": "ONDO FINANCE"
+  },
+  "CTXC": {
+    "kr_name": "코르텍스",
+    "eng_name": "CORTEX"
+  },
+  "W": {
+    "kr_name": "웜홀",
+    "eng_name": "WORMHOLE"
+  },
+  "LM": {
+    "kr_name": "레저메타",
+    "eng_name": "LEISUREMETA"
+  },
+  "SHIB": {
+    "kr_name": "시바이누",
+    "eng_name": "SHIBA INU"
+  },
+  "FANC": {
+    "kr_name": "팬시",
+    "eng_name": "FANC"
+  },
+  "LEVER": {
+    "kr_name": "레버파이",
+    "eng_name": "LEVERFI"
+  },
+  "HIGH": {
+    "kr_name": "하이 스트리트",
+    "eng_name": "HIGH STREET"
+  },
+  "AKT": {
+    "kr_name": "아카시 네트워크",
+    "eng_name": "AKASH NETWORK"
+  },
+  "ETC": {
+    "kr_name": "이더리움 클래식",
+    "eng_name": "ETHEREUM CLASSIC"
+  },
+  "FLOKI": {
+    "kr_name": "플로키",
+    "eng_name": "FLOKI"
+  },
+  "ONG": {
+    "kr_name": "온톨로지 가스",
+    "eng_name": "ONTOLOGY GAS"
+  },
+  "COS": {
+    "kr_name": "콘텐토스",
+    "eng_name": "CONTENTOS"
+  },
+  "HBAR": {
+    "kr_name": "헤데라",
+    "eng_name": "HEDERA"
+  },
+  "STX": {
+    "kr_name": "스택스",
+    "eng_name": "STAX"
+  },
+  "SUI": {
+    "kr_name": "수이",
+    "eng_name": "SUI"
+  },
+  "BCH": {
+    "kr_name": "비트코인 캐시",
+    "eng_name": "BITCOIN CASH"
+  },
+  "RSR": {
+    "kr_name": "리저브 라이트",
+    "eng_name": "RESERVE RIGHTS"
+  },
+  "FET": {
+    "kr_name": "페치",
+    "eng_name": "FETCH"
+  },
+  "REI": {
+    "kr_name": "레이",
+    "eng_name": "REI"
+  },
+  "EL": {
+    "kr_name": "엘리시아",
+    "eng_name": "ELYSIA"
+  },
+  "ZBCN": {
+    "kr_name": "지벡",
+    "eng_name": "ZEBEC"
+  },
+  "SEI": {
+    "kr_name": "세이",
+    "eng_name": "SEI"
+  },
+  "GRT": {
+    "kr_name": "더 그래프",
+    "eng_name": "THE GRAPH"
+  },
+  "RNDR": {
+    "kr_name": "렌더토큰",
+    "eng_name": "RENDER TOKEN"
+  },
+  "AGIX": {
+    "kr_name": "싱귤레리티넷",
+    "eng_name": "SINGULARITYNET"
+  },
+  "IQ": {
+    "kr_name": "아이큐",
+    "eng_name": "IQ"
+  },
+  "JUP": {
+    "kr_name": "주피터",
+    "eng_name": "JUPITER"
+  },
+  "OP": {
+    "kr_name": "옵티미즘",
+    "eng_name": "OPTIMISM"
+  },
+  "PYTH": {
+    "kr_name": "피스 네티워크",
+    "eng_name": "PYTH NETWORK"
+  },
+  "SIX": {
+    "kr_name": "식스",
+    "eng_name": "SIX"
+  },
+  "KLAY": {
+    "kr_name": "클레이",
+    "eng_name": "KLAY"
+  },
+  "STRK": {
+    "kr_name": "스타크넷",
+    "eng_name": "STARK NET"
+  },
+  "BTG": {
+    "kr_name": "비트코인 골드",
+    "eng_name": "BITCOIN GOLD"
+  },
+  "BIGTIME": {
+    "kr_name": "빅타임",
+    "eng_name": "BIGTIME"
+  },
+  "RSS3": {
+    "kr_name": "알에스에스쓰리",
+    "eng_name": "RSS3"
+  },
+  "TAVA": {
+    "kr_name": "알타바",
+    "eng_name": "ALTAVA"
+  },
+  "ADA": {
+    "kr_name": "에이다",
+    "eng_name": "ADA"
+  },
+  "CVC": {
+    "kr_name": "시빅",
+    "eng_name": "CIVIC"
+  },
+  "ATOM": {
+    "kr_name": "코스모스",
+    "eng_name": "COSMOS"
+  },
+  "ONT": {
+    "kr_name": "온톨로지",
+    "eng_name": "ONTOLOGY"
+  },
+  "GALA": {
+    "kr_name": "갈라",
+    "eng_name": "GALA"
+  },
+  "LSK": {
+    "kr_name": "리스크",
+    "eng_name": "LISK"
+  },
+  "NEO": {
+    "kr_name": "네오",
+    "eng_name": "NEO"
+  },
+  "AVAX": {
+    "kr_name": "아발란체",
+    "eng_name": "AVALANCHE"
+  },
+  "CRTS": {
+    "kr_name": "크라토스",
+    "eng_name": "CRATOS"
+  },
+  "TRX": {
+    "kr_name": "트론",
+    "eng_name": "TRON"
+  },
+  "ZTX": {
+    "kr_name": "지티엑스",
+    "eng_name": "ZTX"
+  },
+  "EOS": {
+    "kr_name": "이오스",
+    "eng_name": "EOS"
+  },
+  "LPT": {
+    "kr_name": "라이브피어",
+    "eng_name": "LIVEPEER"
+  },
+  "CKB": {
+    "kr_name": "너보스",
+    "eng_name": "NERVOS"
+  },
+  "DOT": {
+    "kr_name": "폴카닷",
+    "eng_name": "POLKADOT"
+  },
+  "POLA": {
+    "kr_name": "폴라리스 쉐어",
+    "eng_name": "POLARIS SHARE"
+  },
+  "XEC": {
+    "kr_name": "이캐시",
+    "eng_name": "ECASH"
+  },
+  "TIA": {
+    "kr_name": "셀레스티아",
+    "eng_name": "SELESTIA"
+  },
+  "ORBS": {
+    "kr_name": "오브스",
+    "eng_name": "ORBS"
+  },
+  "ID": {
+    "kr_name": "스페이스 아이디",
+    "eng_name": "SPACE ID"
+  },
+  "ACE": {
+    "kr_name": "퓨저니스트",
+    "eng_name": "FUSIONIST"
+  },
+  "GAL": {
+    "kr_name": "갤럭시",
+    "eng_name": "GALAXY"
+  },
+  "ARB": {
+    "kr_name": "아비트럼",
+    "eng_name": "ARBTRUM"
+  },
+  "TFUEL": {
+    "kr_name": "쎄타퓨엘",
+    "eng_name": "THETA FUEL"
+  },
+  "GHX": {
+    "kr_name": "게이머코인",
+    "eng_name": "GAMER COIN"
+  },
+  "BEL": {
+    "kr_name": "벨라 프로토콜",
+    "eng_name": "BELA PROTOCOL"
+  },
+  "MATIC": {
+    "kr_name": "매직",
+    "eng_name": "MAGIC"
+  },
+  "MTL": {
+    "kr_name": "메탈",
+    "eng_name": "METAL"
+  },
+  "OCEAN": {
+    "kr_name": "오션 프로토콜",
+    "eng_name": "OCEAN PROTOCOL"
+  },
+  "YGG": {
+    "kr_name": "일드길드게임즈",
+    "eng_name": "YIELD GUILD GAMES"
+  },
+  "SAND": {
+    "kr_name": "샌드박스",
+    "eng_name": "SANDBOX"
+  },
+  "FITFI": {
+    "kr_name": "스텝앱",
+    "eng_name": "STEP APP"
+  },
+  "QTUM": {
+    "kr_name": "퀀텀",
+    "eng_name": "QUNTUM"
+  },
+  "RVN": {
+    "kr_name": "레이븐코안",
+    "eng_name": "RAVEN COIN"
+  },
+  "PENDLE": {
+    "kr_name": "펜들",
+    "eng_name": "PENDLE"
+  },
+  "BSV": {
+    "kr_name": "비트코인SV",
+    "eng_name": "BITCOIN SV"
+  },
+  "LOOM": {
+    "kr_name": "룸네트워크",
+    "eng_name": "LOOM NETWORK"
+  },
+  "BIOT": {
+    "kr_name": "바이오패스포트",
+    "eng_name": "BIO PASSPORT"
+  },
+  "MNT": {
+    "kr_name": "맨틀",
+    "eng_name": "MANTLE"
+  },
+  "MIX": {
+    "kr_name": "믹스마블",
+    "eng_name": "MIX MARBLE"
+  },
+  "APT": {
+    "kr_name": "앱토스",
+    "eng_name": "APPTOS"
+  },
+  "T": {
+    "kr_name": "쓰레스홀드",
+    "eng_name": "THREASHOLD"
+  },
+  "XPLA": {
+    "kr_name": "엑스플라",
+    "eng_name": "XPLA"
+  },
+  "ALEX": {
+    "kr_name": "알렉스",
+    "eng_name": "ALEX"
+  },
+  "CFX": {
+    "kr_name": "콘플럭스",
+    "eng_name": "CONFLUX"
+  },
+  "MANTA": {
+    "kr_name": "만타네트워크",
+    "eng_name": "MANTA NETWORK"
+  },
+  "LINK": {
+    "kr_name": "체인링크",
+    "eng_name": "CHAINLINK"
+  },
+  "RLY": {
+    "kr_name": "랠리",
+    "eng_name": "RALLY"
+  },
+  "MAP": {
+    "kr_name": "맵 프로토콜",
+    "eng_name": "MAP PROTOCOL"
+  },
+  "ASTR": {
+    "kr_name": "아스타",
+    "eng_name": "ASTAR"
+  },
+  "WAXL": {
+    "kr_name": "왁스",
+    "eng_name": "WAX"
+  },
+  "EGLD": {
+    "kr_name": "멀티버스엑스",
+    "eng_name": "MULTIVERSX"
+  },
+  "PUNDIX": {
+    "kr_name": "펀디엑스",
+    "eng_name": "PUNDIX"
+  },
+  "ALGO": {
+    "kr_name": "알고랜드",
+    "eng_name": "ALGOLAND"
+  },
+  "BOA": {
+    "kr_name": "보아",
+    "eng_name": "BOA"
+  },
+  "RLC": {
+    "kr_name": "아이젝",
+    "eng_name": "IEXEC"
+  },
+  "CTK": {
+    "kr_name": "센투",
+    "eng_name": "SHENTU"
+  },
+  "CTSI": {
+    "kr_name": "카르테시",
+    "eng_name": "CARTESI"
+  },
+  "NMR": {
+    "kr_name": "뉴메레르",
+    "eng_name": "NUMERAIRE"
+  },
+  "MVC": {
+    "kr_name": "마일벌스",
+    "eng_name": "MILEVERSE"
+  },
+  "JASMY": {
+    "kr_name": "재스미코인",
+    "eng_name": "JASMY COIN"
+  },
+  "ROA": {
+    "kr_name": "로아코어",
+    "eng_name": "ROA CORE"
+  },
+  "OAS": {
+    "kr_name": "오아시스",
+    "eng_name": "OASYS"
+  },
+  "STAT": {
+    "kr_name": "스탯",
+    "eng_name": "STAT"
+  },
+  "BLUR": {
+    "kr_name": "블러",
+    "eng_name": "BLUR"
+  },
+  "FNSA": {
+    "kr_name": "핀시아",
+    "eng_name": "FINSCHIA"
+  },
+  "IMX": {
+    "kr_name": "이뮤터블엑스",
+    "eng_name": "IMMUTABLEX"
+  },
+  "BLY": {
+    "kr_name": "블로서리",
+    "eng_name": "BLOCERY"
+  },
+  "NPT": {
+    "kr_name": "네오핀",
+    "eng_name": "NEOPIN"
+  },
+  "WOM": {
+    "kr_name": "왐토큰",
+    "eng_name": "WOM TOKEN"
+  },
+  "MLK": {
+    "kr_name": "밀크",
+    "eng_name": "MILK"
+  },
+  "POWR": {
+    "kr_name": "파워렛저",
+    "eng_name": "POWERLEDGER"
+  },
+  "MBX": {
+    "kr_name": "마브렉스",
+    "eng_name": "MARBLEX"
+  },
+  "CHZ": {
+    "kr_name": "칠리즈",
+    "eng_name": "CHILIZ"
+  },
+  "JOE": {
+    "kr_name": "트레이더 조",
+    "eng_name": "TRADER JOE"
+  },
+  "MAGIC": {
+    "kr_name": "매직",
+    "eng_name": "MAIGC"
+  },
+  "YFI": {
+    "kr_name": "연파이낸스",
+    "eng_name": "YEARN FINANCE"
+  },
+  "ONIT": {
+    "kr_name": "온버프",
+    "eng_name": "ONBUFF"
+  },
+  "ANKR": {
+    "kr_name": "앵커",
+    "eng_name": "ANKR"
+  },
+  "HIFI": {
+    "kr_name": "하이파이",
+    "eng_name": "HIFI"
+  },
+  "XLM": {
+    "kr_name": "스텔라",
+    "eng_name": "STELLAR"
+  },
+  "WAVES": {
+    "kr_name": "웨이브",
+    "eng_name": "WAVE"
+  },
+  "CHR": {
+    "kr_name": "크로미아",
+    "eng_name": "CHROMIA"
+  },
+  "USDC": {
+    "kr_name": "유에스디코인",
+    "eng_name": "USD COIN"
+  },
+  "ZRX": {
+    "kr_name": "제로엑스",
+    "eng_name": "ZEROX"
+  },
+  "WIKEN": {
+    "kr_name": "위드",
+    "eng_name": "WITH"
+  },
+  "GRND": {
+    "kr_name": "슈퍼워크",
+    "eng_name": "SUPER WALK"
+  },
+  "GRACY": {
+    "kr_name": "그레이시",
+    "eng_name": "GRACY"
+  },
+  "STEEM": {
+    "kr_name": "스팀",
+    "eng_name": "STEEM"
+  },
+  "MAV": {
+    "kr_name": "메버릭 프로토콜",
+    "eng_name": "MAVERICK PROTOCOL"
+  },
+  "ACH": {
+    "kr_name": "알케이페이",
+    "eng_name": "ALCHEMY PAY"
+  },
+  "SUSHI": {
+    "kr_name": "스시스왑",
+    "eng_name": "SUSHI SWAP"
+  },
+  "STRAX": {
+    "kr_name": "스트라티스",
+    "eng_name": "STRATIS"
+  },
+  "SFP": {
+    "kr_name": "세이프팔",
+    "eng_name": "SAFEPAL"
+  },
+  "INJ": {
+    "kr_name": "인젝티브",
+    "eng_name": "INJECTIVE"
+  },
+  "KSM": {
+    "kr_name": "쿠사마",
+    "eng_name": "KUSAMA"
+  },
+  "OBSR": {
+    "kr_name": "옵저버",
+    "eng_name": "OBSERVER"
+  },
+  "AZIT": {
+    "kr_name": "아지트",
+    "eng_name": "AZIT"
+  },
+  "DYDX": {
+    "kr_name": "디와이디엑스",
+    "eng_name": "DYDX"
+  },
+  "STG": {
+    "kr_name": "스타게이트 파이낸스",
+    "eng_name": "STARTGATE FINANCE"
+  },
+  "UOS": {
+    "kr_name": "울트라",
+    "eng_name": "ULTRA"
+  },
+  "VIX": {
+    "kr_name": "빅스코",
+    "eng_name": "VIXCO"
+  },
+  "STPT": {
+    "kr_name": "에스티피티",
+    "eng_name": "STPT"
+  },
+  "RPL": {
+    "kr_name": "로켓풀",
+    "eng_name": "ROCKET POOL"
+  },
+  "BNB": {
+    "kr_name": "바이낸스코인",
+    "eng_name": "BINANCE COIN"
+  },
+  "TDROP": {
+    "kr_name": "티드랍",
+    "eng_name": "TDORP"
+  },
+  "LDO": {
+    "kr_name": "리도다오",
+    "eng_name": "RIDO DAO"
+  },
+  "NCT": {
+    "kr_name": "폴리스웜",
+    "eng_name": "POLY SWARM"
+  },
+  "SOFI": {
+    "kr_name": "라이파이낸스",
+    "eng_name": "RAI FINANCE"
+  },
+  "UNI": {
+    "kr_name": "유니스왑",
+    "eng_name": "UNISWAP"
+  },
+  "EDU": {
+    "kr_name": "오픈캠퍼스",
+    "eng_name": "OPEN CAMPUS"
+  },
+  "VET": {
+    "kr_name": "비체인",
+    "eng_name": "VECHAIN"
+  },
+  "MASK": {
+    "kr_name": "마스크 네트워크",
+    "eng_name": "MASK NETWORK"
+  },
+  "CTC": {
+    "kr_name": "크레딧코인",
+    "eng_name": "CREDIT COIN"
+  },
+  "API3": {
+    "kr_name": "에이피아이쓰리",
+    "eng_name": "API3"
+  },
+  "XVS": {
+    "kr_name": "비너스",
+    "eng_name": "VENUS"
+  },
+  "BNT": {
+    "kr_name": "뱅코르",
+    "eng_name": "BANCOR"
+  },
+  "WNCG": {
+    "kr_name": "랩트 나인 크로니클 골드",
+    "eng_name": "LAPT NINE CRONICLE GOLD"
+  },
+  "GMX": {
+    "kr_name": "지엠엑스",
+    "eng_name": "GMX"
+  },
+  "MEV": {
+    "kr_name": "미버스",
+    "eng_name": "MEVERSE"
+  },
+  "EVZ": {
+    "kr_name": "이브이지",
+    "eng_name": "EVZ"
+  },
+  "HFT": {
+    "kr_name": "해시플로우",
+    "eng_name": "HASH FLOW"
+  },
+  "ENJ": {
+    "kr_name": "엔진코인",
+    "eng_name": "ENGINE COIN"
+  },
+  "DVI": {
+    "kr_name": "디비전",
+    "eng_name": "DIVISION"
+  },
+  "XPR": {
+    "kr_name": "프로톤",
+    "eng_name": "FROTON"
+  },
+  "MBL": {
+    "kr_name": "무비블록",
+    "eng_name": "MOVIE BLOCK"
+  },
+  "AXS": {
+    "kr_name": "엑시인피니티",
+    "eng_name": "AXIE INFINITY"
+  },
+  "META": {
+    "kr_name": "메타디움",
+    "eng_name": "METADIUM"
+  },
+  "THETA": {
+    "kr_name": "쎄타토큰",
+    "eng_name": "THETA TOKEN"
+  },
+  "SWAP": {
+    "kr_name": "트러스트스왑",
+    "eng_name": "TRUST SWAP"
+  },
+  "QTCON": {
+    "kr_name": "퀴즈톡",
+    "eng_name": "QUIZTOK"
+  },
+  "ASM": {
+    "kr_name": "어셈블 프로토콜",
+    "eng_name": "ASSEMBLE PROTOCOL"
+  },
+  "BFC": {
+    "kr_name": "바이프로스트",
+    "eng_name": "BIFROST"
+  },
+  "XCN": {
+    "kr_name": "오닉스코인",
+    "eng_name": "ONYXCOIN"
+  },
+  "CYBER": {
+    "kr_name": "사이버커넥트",
+    "eng_name": "CYBERCONNECT"
+  },
+  "MANA": {
+    "kr_name": "디센트럴랜드",
+    "eng_name": "DECENTRALAND"
+  },
+  "CRO": {
+    "kr_name": "크로노스",
+    "eng_name": "CRONOS"
+  },
+  "CELO": {
+    "kr_name": "셀로",
+    "eng_name": "CELO"
+  },
+  "WAXP": {
+    "kr_name": "왁스",
+    "eng_name": "WAX"
+  },
+  "GMT": {
+    "kr_name": "스테픈",
+    "eng_name": "STEPEN"
+  },
+  "MXC": {
+    "kr_name": "머신익스체인지코인",
+    "eng_name": "MACHINE EXCHANGE COIN"
+  },
+  "STORJ": {
+    "kr_name": "스토리지",
+    "eng_name": "STORIJ"
+  },
+  "SNX": {
+    "kr_name": "신세틱스",
+    "eng_name": "SYNTHETIX"
+  },
+  "SNT": {
+    "kr_name": "스테이터스네트워크토큰",
+    "eng_name": "STATUS NETWORK TOKEN"
+  },
+  "ICX": {
+    "kr_name": "아이콘",
+    "eng_name": "ICON"
+  },
+  "ALICE": {
+    "kr_name": "마이네이버엘리스",
+    "eng_name": "MY NEIGHBOR ALICE"
+  },
+  "FLZ": {
+    "kr_name": "펠라즈",
+    "eng_name": "FELLAZ"
+  },
+  "SC": {
+    "kr_name": "시아코인",
+    "eng_name": "SIZCOIN"
+  },
+  "GTC": {
+    "kr_name": "깃코인",
+    "eng_name": "GIT COIN"
+  },
+  "BOBA": {
+    "kr_name": "보바토큰",
+    "eng_name": "BOBA TOKEN"
+  },
+  "RDNT": {
+    "kr_name": "라디언트 캐피탈",
+    "eng_name": "RADIANT CAPITAL"
+  },
+  "CRV": {
+    "kr_name": "커브",
+    "eng_name": "CURVE"
+  },
+  "SUN": {
+    "kr_name": "썬",
+    "eng_name": "SUN"
+  },
+  "TEMCO": {
+    "kr_name": "템코",
+    "eng_name": "TEMCO"
+  },
+  "AUDIO": {
+    "kr_name": "오디우스",
+    "eng_name": "AUDIUS"
+  },
+  "MINA": {
+    "kr_name": "미나",
+    "eng_name": "MINA"
+  },
+  "ADP": {
+    "kr_name": "어댑터토큰",
+    "eng_name": "ADAPTER TOKEN"
+  },
+  "ELF": {
+    "kr_name": "엘프",
+    "eng_name": "ELF"
+  },
+  "IOTX": {
+    "kr_name": "아이오텍스",
+    "eng_name": "IOTEX"
+  },
+  "EGG": {
+    "kr_name": "네스트리",
+    "eng_name": "NESTREE"
+  },
+  "OGN": {
+    "kr_name": "오리진프로토콜",
+    "eng_name": "ORIGIN PROTOCOL"
+  },
+  "BORA": {
+    "kr_name": "보라",
+    "eng_name": "BORA"
+  },
+  "BAT": {
+    "kr_name": "베이직어텐션토큰",
+    "eng_name": "BASIC ATTENTION TOKEN"
+  },
+  "MOC": {
+    "kr_name": "모스코인",
+    "eng_name": "MOSS COIN"
+  },
+  "DAR": {
+    "kr_name": "마인즈 오브 달라니아",
+    "eng_name": "MINDS OF DALANIA"
+  },
+  "GAS": {
+    "kr_name": "가스",
+    "eng_name": "GAS"
+  },
+  "AERGO": {
+    "kr_name": "아르고",
+    "eng_name": "AERGO"
+  },
+  "ILV": {
+    "kr_name": "일루비움",
+    "eng_name": "ILLUVIUM"
+  },
+  "HUNT": {
+    "kr_name": "헌트",
+    "eng_name": "HUNT"
+  },
+  "ACS": {
+    "kr_name": "엑세스 프로토콜",
+    "eng_name": "ACCESS PROTOCOL"
+  },
+  "FLR": {
+    "kr_name": "플레어",
+    "eng_name": "FLARE"
+  },
+  "KNC": {
+    "kr_name": "카이버 네트워크",
+    "eng_name": "KYBER NETWORK"
+  },
+  "LRC": {
+    "kr_name": "루프링",
+    "eng_name": "LOOPRING"
+  },
+  "FX": {
+    "kr_name": "펑션엑스",
+    "eng_name": "FUNCTION X"
+  },
+  "REQ": {
+    "kr_name": "리퀘스트",
+    "eng_name": "REQUEST"
+  },
+  "ZIL": {
+    "kr_name": "질리카",
+    "eng_name": "ZILLIQA"
+  },
+  "FLOW": {
+    "kr_name": "플로우",
+    "eng_name": "FLOW"
+  },
+  "MKR": {
+    "kr_name": "메이커",
+    "eng_name": "MAKER"
+  },
+  "SXP": {
+    "kr_name": "솔라",
+    "eng_name": "SOLAR"
+  },
+  "TT": {
+    "kr_name": "썬더코어",
+    "eng_name": "THUNDER CORE"
+  },
+  "FTM": {
+    "kr_name": "팬텀",
+    "eng_name": "FANTOM"
+  },
+  "HIVE": {
+    "kr_name": "하이브",
+    "eng_name": "HIVE"
+  },
+  "APM": {
+    "kr_name": "에이피엠코인",
+    "eng_name": "APM COIN"
+  },
+  "RAD": {
+    "kr_name": "래드웍스",
+    "eng_name": "RADWORKS"
+  },
+  "COTI": {
+    "kr_name": "코티",
+    "eng_name": "COTI"
+  },
+  "OXT": {
+    "kr_name": "오키드",
+    "eng_name": "ORCHID"
+  },
+  "ARPA": {
+    "kr_name": "알파",
+    "eng_name": "ARPA"
+  },
+  "FXS": {
+    "kr_name": "프랙스 셰어",
+    "eng_name": "FRAX SHARE"
+  },
+  "NFT": {
+    "kr_name": "에이피이앤에프티",
+    "eng_name": "APENFT"
+  },
+  "FLUX": {
+    "kr_name": "플럭스",
+    "eng_name": "FLUX"
+  },
+  "ARK": {
+    "kr_name": "아크",
+    "eng_name": "ARK"
+  },
+  "VALOR": {
+    "kr_name": "밸러토큰",
+    "eng_name": "VALOR TOKEN"
+  },
+  "GRS": {
+    "kr_name": "그로스톨코인",
+    "eng_name": "GROESTLCOIN"
+  },
+  "AAVE": {
+    "kr_name": "에이브",
+    "eng_name": "AAVE"
+  },
+  "AMO": {
+    "kr_name": "아모코인",
+    "eng_name": "AMO COIN"
+  },
+  "SPURS": {
+    "kr_name": "손흥민",
+    "eng_name": "TOTTENHAM HOTSPUR FAN TOKEN"
+  },
+  "DAI": {
+    "kr_name": "다이",
+    "eng_name": "DAI"
+  },
+  "CSPR": {
+    "kr_name": "캐스퍼",
+    "eng_name": "CASPER"
+  },
+  "STMX": {
+    "kr_name": "스톰엑스",
+    "eng_name": "STORMX"
+  },
+  "WOO": {
+    "kr_name": "우네트워크",
+    "eng_name": "WOO"
+  },
+  "C98": {
+    "kr_name": "코안98",
+    "eng_name": "COIN98"
+  },
+  "DAO": {
+    "kr_name": "다오메이커",
+    "eng_name": "DAO MAKER"
+  },
+  "KAVA": {
+    "kr_name": "카바",
+    "eng_name": "KAVA"
+  },
+  "IOST": {
+    "kr_name": "이오스트",
+    "eng_name": "IOST"
+  },
+  "MED": {
+    "kr_name": "메디블록",
+    "eng_name": "MEDI BLOCK"
+  },
+  "COMP": {
+    "kr_name": "컴파운드",
+    "eng_name": "COMPOUND"
+  },
+  "UMA": {
+    "kr_name": "우마",
+    "eng_name": "UMA"
+  },
+  "PYR": {
+    "kr_name": "불칸포지드",
+    "eng_name": "VULCAN FORGED"
+  },
+  "CAKE": {
+    "kr_name": "팬케이크스왑",
+    "eng_name": "PANCAKE SWAP"
+  },
+  "OSMO": {
+    "kr_name": "오스모시스",
+    "eng_name": "OSMOSYS"
+  },
+  "XTZ": {
+    "kr_name": "테조스",
+    "eng_name": "TEZOS"
+  },
+  "APE": {
+    "kr_name": "에이프코인",
+    "eng_name": "APE COIN"
+  },
+  "BAL": {
+    "kr_name": "밸런서",
+    "eng_name": "BALLENCER"
+  },
+  "CELR": {
+    "kr_name": "셀러네트워크",
+    "eng_name": "CELER NETWORK"
+  },
+  "AQT": {
+    "kr_name": "알파쿼크",
+    "eng_name": "ARPHA QUARK"
+  },
+  "JST": {
+    "kr_name": "저스트",
+    "eng_name": "JUST"
+  },
+  "ALT": {
+    "kr_name": "아치루트",
+    "eng_name": "ARCHROOT"
+  },
+  "WEMIX": {
+    "kr_name": "위믹스",
+    "eng_name": "WEMIX"
+  },
+  "TALK": {
+    "kr_name": "톡큰",
+    "eng_name": "TALKEN"
+  },
+  "ORB": {
+    "kr_name": "오브시티",
+    "eng_name": "ORBCITY"
+  },
+  "HVH": {
+    "kr_name": "하바",
+    "eng_name": "HAVAH"
+  },
+  "WITCH": {
+    "kr_name": "위치토큰",
+    "eng_name": "WITCH TOKEN"
+  },
+  "DICE": {
+    "kr_name": "클레이다이스",
+    "eng_name": "KALYDICE"
+  },
+  "PORTO": {
+    "kr_name": "FC포르투",
+    "eng_name": "PROTO"
+  },
+  "ENS": {
+    "kr_name": "이더리움 네임 서비스",
+    "eng_name": "ETHERIUM NAME SERVICE"
+  },
+  "SANTOS": {
+    "kr_name": "산토스",
+    "eng_name": "SANTOS"
+  },
+  "LAZIO": {
+    "kr_name": "라지오",
+    "eng_name": "LAZIO"
+  },
+  "KSP": {
+    "kr_name": "클레이스왑",
+    "eng_name": "KLAY SWAP"
+  },
+  "KALY": {
+    "kr_name": "클레이",
+    "eng_name": "KLAY"
+  },
+  "AHT": {
+    "kr_name": "아하토큰",
+    "eng_name": "AHA TOKEN"
+  }
+}
