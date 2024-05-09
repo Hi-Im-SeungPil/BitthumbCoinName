@@ -1,7 +1,31 @@
 {
-  "FIT": {
-    "kr_name": "300피트 네트워크",
-    "eng_name": "300FIT NETWORK"
+  "DOGE": {
+    "kr_name": "도지코인",
+    "eng_name": "DOGE COIN"
+  },
+  "ENTC": {
+    "kr_name": "엔터버튼",
+    "eng_name": "ENTER BUTTON"
+  },
+  "AIOZ": {
+    "kr_name": "아이오즈",
+    "eng_name": "AIOZ"
+  },
+  "NEAR": {
+    "kr_name": "니어 프로토콜",
+    "eng_name": "NEAR PROTOCOL"
+  },
+  "BTT": {
+    "kr_name": "비트토렌트",
+    "eng_name": "BIT TORRENT"
+  },
+  "FCT2": {
+    "kr_name": "피르마체인",
+    "eng_name": "FIRMA CHAIN"
+  },
+  "AL": {
+  "kr_name": "알파",
+  "eng_name": "ALPHA"
   },
   "1INCH": {
     "kr_name": "1인치",
