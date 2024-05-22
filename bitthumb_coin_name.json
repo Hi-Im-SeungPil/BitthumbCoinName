@@ -1,4 +1,16 @@
 {
+  "ZETA": {
+    "kr_name": "제타체인",
+    "eng_name": "ZETA CHAIN"
+  },
+  "LWA": {
+    "kr_name": "루미웨이브",
+    "eng_name": "LUMIWAVE"
+  },
+  "BONK": {
+    "kr_name": "봉크",
+    "eng_name": "BONK"
+  },
   "FIT": {
     "kr_name": "300피트 네트워크",
     "eng_name": "300FIT NETWORK"
@@ -368,7 +380,7 @@
     "eng_name": "QUNTUM"
   },
   "RVN": {
-    "kr_name": "레이븐코안",
+    "kr_name": "레이븐코인",
     "eng_name": "RAVEN COIN"
   },
   "PENDLE": {
@@ -1036,7 +1048,7 @@
     "eng_name": "WOO"
   },
   "C98": {
-    "kr_name": "코안98",
+    "kr_name": "코인98",
     "eng_name": "COIN98"
   },
   "DAO": {
